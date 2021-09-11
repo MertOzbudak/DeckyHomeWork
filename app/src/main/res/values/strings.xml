@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="kelime_test">Kelime Testi</string>
+    <string name="kelime_test_info">Kelime Testi, Sizin dil seviyenizi ölçmek içindir. Test sonunda doğru ve yanlışlarınızı görebileceksiniz!</string>
+    <string name="lets_start">Şimdi Başla</string>
+    <string name="skip">Atla</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
